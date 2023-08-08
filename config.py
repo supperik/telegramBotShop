@@ -1,6 +1,0 @@
-TOKEN = '5876865276:AAHyr_C0nW4Rmg7xCit23Sfo0vl17GKFSeQ'
-db_host = 'localhost'
-db_user = 'root'
-db_password = '1234'
-db_name = 'telegramshop'
-ADMIN_PASSWORD = '12345'
